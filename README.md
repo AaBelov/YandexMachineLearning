@@ -1,1 +1,1 @@
-# YandexMachineLearning
+# YandexMachineLearningCourse
